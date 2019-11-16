@@ -1,8 +1,6 @@
 ## Ryan Timbrook (Student - Course Work Repository)
 **[LinkedIn Profile](https://www.linkedin.com/in/ryantimbrook/)**
-
 ### [Certificate in Data Science](https://www.pce.uw.edu/certificates/data-science)
-
 #### [DATASCIE 450 - Deriving Knowledge From Data at Scale](https://www.pce.uw.edu/courses/data-science-process-and-tools)
 #### SYLLABUS
 
