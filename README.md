@@ -3,7 +3,7 @@
 
 ### [Certificate in Data Science](https://www.pce.uw.edu/certificates/data-science)
 
-#### [DATASCIE 450 - Deriving Knowledge From Data at Scale](https://www.pce.uw.edu/courses/data-science-process-and-tools) - Winter 2017
+#### [DATASCIE 450 - Deriving Knowledge From Data at Scale](https://www.pce.uw.edu/courses/data-science-process-and-tools)
 #### SYLLABUS
 
                                   **University of Washington, Professional & Continuing Education**
