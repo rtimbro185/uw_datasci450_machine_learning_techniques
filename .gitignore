@@ -34,3 +34,12 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# jupyter notebook saved checkpoints
+.ipynb_checkpoints
+
+*.bak
+.project
+.Rproj.user
+.RData
+.Rhistory
