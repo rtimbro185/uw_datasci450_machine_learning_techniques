@@ -19,7 +19,7 @@ Machine learning is an integral tool for data science. In this course, you’ll 
 * Deep learning models and their relationship to other machine learning models
 
 
-Course Schedule:
+![UW_DS_Certificate](./images/RyanTimbrook_UWDataScience_Certificate.png)
 
-![Schedule](./images/schedule.png)
+
 University of Washington, Certificate in Data Science - DATASCI 450 - Deriving Knowledge From Data at Scale
